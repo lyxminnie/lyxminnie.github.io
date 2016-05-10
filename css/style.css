@@ -614,6 +614,18 @@ a.article-title:hover {
   width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
+table
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.article-entry table th {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.article-entry table td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  padding: 1px 8px 1px;
 }
 .article-entry th {
   font-weight: bold;
